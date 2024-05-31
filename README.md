@@ -4,6 +4,8 @@ This is my group project assignment 3 of COMP4332 Big Data Mining and Management
 
 This project invloves using the wide and deep learning model (which is commonly used in recommendation system) to predict the product ratings by the users.
 
+The reserach paper on Wide and Deep Learning Model: https://arxiv.org/pdf/1606.07792
+
 You should see the following things in this repository:
 
 * code.ipynb: the Jupyter Notebook
@@ -14,6 +16,7 @@ You should see the following things in this repository:
 * Project3_Rating_Prediction_Spring2024.pdf: the description of this project
 * data: the folder that contains the training dataset, the validation dataset, the testing dataset and the product information
 * submission: the submission for this project
+* Wide and Deep Learning Model.pdf: the reserach paper on Wide and Deep Learning Model
 
 ---
 
